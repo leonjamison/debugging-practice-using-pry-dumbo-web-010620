@@ -3,8 +3,8 @@ def plus_two(num)
 	num
 	# binding.pry
 end
-# Alternative solution
-# def plus_two(num)
-	  # num = num + 2
-	  # num
-# end
+Alternative solution
+def plus_two(num)
+	  num = num + 2
+	  num
+end
