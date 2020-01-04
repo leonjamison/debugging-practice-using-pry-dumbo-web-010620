@@ -1,8 +1,10 @@
+# def plus_two(num)
+# 	num + 2
+# 	num
+# 	# binding.pry
+# end
+# Alternative solution
 def plus_two(num)
-	num + 2
-	num
-	# binding.pry
+	  num = num + 2
+	  num
 end
-puts this_variable_hasnt_been_interpreted_yet
-
-end 
